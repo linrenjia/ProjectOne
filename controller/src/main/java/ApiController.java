@@ -8,12 +8,6 @@ public class ApiController {
 
     public void login(){
 
-
-        String ss = "";
-
-        Integer aaa = 12;
-
-        /*************/
-
+        System.out.println("远程提交的");
     }
 }
