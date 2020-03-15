@@ -8,13 +8,12 @@ public class ApiController {
 
     public void login(){
 
+        System.out.println("还没有提交到本地");
         String ss = "";
 
         Integer aaa = 12;
 
         /*************/
-        System.out.println("已经提交到本地");
-        System.out.println("远程提交");
 
     }
 }
