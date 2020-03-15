@@ -7,11 +7,7 @@ public class ApiController {
 
 
     public void login(){
-        System.out.println();
-        System.out.println("this is linrejia");
-        List<String> ss = new ArrayList<>();
-        Set<String> set = new HashSet<>();
-        System.out.println();
+        String ss = "";
 
     }
 }
